@@ -1,0 +1,16 @@
+addon python version 4.1.0.0
+addon core version 4.107.0.0
+addon language version 4.106.1.0
+program python
+keyboard x=5
+keyboard ⋘ENTER⋙
+keyboard var=10.3
+keyboard ⋘ENTER⋙
+keyboard int(var)
+keyboard ⋘enter⋙
+keyboard float(x)
+keyboard ⋘enter⋙
+keyboard str(var)
+keyboard ⋘enter⋙
+keyboard str(x)
+keyboard ⋘enter⋙
